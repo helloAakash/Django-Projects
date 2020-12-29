@@ -28,5 +28,3 @@ urlpatterns = [
     path('request-refund/', RequestRefundView.as_view(), name='request-refund')
 ]
 
-
-aaksah
